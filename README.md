@@ -1,5 +1,6 @@
 # Web-wallet
 ##Project screenshots
+
 Main view:
 ![main_view](https://github.com/user-attachments/assets/81847741-9092-40e8-b7ab-1db61a5f353c)
 
